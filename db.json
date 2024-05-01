@@ -1,0 +1,93 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Smartphone",
+            "brand": "Samsung",
+            "model": "A",
+            "code": 14,
+            "price": 170,
+            "description": "6/128 GB 58Mp"
+        },
+        {
+            "id": "2",
+            "name": "Smartphone",
+            "brand": "Iphone",
+            "model": "15",
+            "code": "Pro Max",
+            "price": "1200",
+            "description": "256 GB 72Mp"
+        },
+        {
+            "id": "3",
+            "name": "Laptop",
+            "brand": "Acer",
+            "model": "Aspire",
+            "code": "E15",
+            "price": 600,
+            "description": "Core i5 8GB/1TB"
+        },
+        {
+            "id": "4",
+            "name": "Laptop",
+            "brand": "Lenovo",
+            "model": "Ideapad",
+            "code": "E15",
+            "price": 800,
+            "description": "Core i5 16GB/1TB"
+        },
+        {
+            "id": "5",
+            "name": "Printer",
+            "brand": "Canon",
+            "model": "I-Sensys",
+            "code": "3010",
+            "price": 400,
+            "description": "Multi function laser printer"
+        }
+    ],
+    "brands": [
+        {
+            "name": "Samsung",
+            "id": "89d4"
+        },
+        {
+            "id": "2",
+            "name": "Iphone"
+        },
+        {
+            "name": "Acer",
+            "id": "178b"
+        },
+        {
+            "name": "Lenovo",
+            "id": "5471"
+        },
+        {
+            "name": "Canon",
+            "id": "f353"
+        }
+    ],
+    "models": [
+        {
+            "name": "A",
+            "id": "586b"
+        },
+        {
+            "name": "15",
+            "id": "2afb"
+        },
+        {
+            "name": "Aspire",
+            "id": "e64f"
+        },
+        {
+            "name": "Ideapad",
+            "id": "b275"
+        },
+        {
+            "name": "I-Sensys",
+            "id": "955c"
+        }
+    ]
+}
